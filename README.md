@@ -1,4 +1,2 @@
-# slides
-Repo for slide PDFs
-
-[link to this website](http://www.twitter.com)
+# Slides
+Repo for slides from talks and workshops.
